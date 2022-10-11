@@ -12,3 +12,5 @@ tambien se espera que sea en menos o igual a 6 meses.
 estamos pendientes de la oferta
 
 Hacemos cambios con usuario GiovaHerre
+
+Otros cambios desde GiovaHerre como colaborador o contribución haciendo fork 
